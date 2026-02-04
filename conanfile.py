@@ -11,7 +11,7 @@ class Project(ConanFile):
     requires = [
         "catch2/3.4.0",
         "spdlog/1.12.0",
-        "nlohmann_json/3.11.3",
+        "nlohmann_json/3.12.0",
         "argparse/3.0",
         "qt/6.6.1",
     ]
