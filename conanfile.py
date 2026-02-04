@@ -12,7 +12,7 @@ class Project(ConanFile):
         "catch2/3.4.0",
         "spdlog/1.12.0",
         "nlohmann_json/3.12.0",
-        "argparse/3.0",
+        "argparse/3.2",
         "qt/6.6.1",
     ]
     # default_options = {"qt/*:with_wayland": True}
